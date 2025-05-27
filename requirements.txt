@@ -1,0 +1,7 @@
+pytesseract
+Pillow
+langchain
+langchain_groq
+langchain_community
+gradio
+pydantic
