@@ -6,6 +6,10 @@
 
 SpendLens-AI is an intelligent receipt processing application that uses Optical Character Recognition (OCR) and Large Language Models (LLMs) to extract and analyze receipt data. The application helps users track their spending patterns, categorize purchases, and gain insights into their financial habits.
 
+## Screenshots
+![image alt](https://github.com/aniq63/SpendLens-AI/blob/48564b8f79931593faac639a6d605d648fd409ff/Capture.PNG)
+
+
 ## ✨ Key Features
 
 - **📸 Receipt Processing**: Upload images of receipts for automatic data extraction
