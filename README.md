@@ -9,6 +9,7 @@ SpendLens-AI is an intelligent receipt processing application that uses Optical 
 ## Screenshots
 ![image alt](https://github.com/aniq63/SpendLens-AI/blob/48564b8f79931593faac639a6d605d648fd409ff/Capture.PNG)
 ![image alt](https://github.com/aniq63/SpendLens-AI/blob/8dc62e06885bec3d24ba52d3081c8c39ffba9e0a/screenshot1.PNG)
+![image alt](https://github.com/aniq63/SpendLens-AI/blob/083e002042bfa0368ef362c77f96e08016546ffa/screenshot1.PNG)
 
 
 ## ✨ Key Features
